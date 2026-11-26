@@ -228,9 +228,6 @@ main.dart
 
 **Luis Adrián Cauich Dzul**  
 GitHub: [@AcronMaster](https://github.com/AcronMaster)
-
----
-
 ## 📄 Licencia
 
-Proyecto de uso educativo. Si deseas reutilizarlo, contacta al autor para conocer las condiciones.
+Proyecto de uso educativo. Si deseas reutilizarlo, contacta al autor para con
